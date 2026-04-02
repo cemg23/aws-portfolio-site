@@ -8,7 +8,7 @@ This project is a simple portfolio website hosted on AWS S3.
 - Public access configuration
 
 ## Live Demo
-https://cem-portfolio-site.s3.us-east-1.amazonaws.com/index1.html
+http://cem-portfolio-site.s3-website-us-east-1.amazonaws.com
 
 ## Technologies
 - AWS S3
